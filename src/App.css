@@ -8,9 +8,9 @@ h1 {
 }
 
 .form {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    width: 500px;
-    align-items: center;
+
+}
+
+input {
+    margin-bottom: 15px;
 }

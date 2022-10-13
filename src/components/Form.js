@@ -1,13 +1,14 @@
 import React from 'react'
+import Input from './Input'
 
 const Form = () => {
   return (
     <>
       <form action="" className="form">
-        <input type="text"/>
-        <input type="text"/>
-        <input type="text"/>
-        <input type="text"/>
+        <Input />
+        <Input />
+        <Input />
+        <Input />
       </form>
     </>
   )
