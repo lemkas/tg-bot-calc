@@ -14,6 +14,7 @@ function App() {
   }
   return (
     <div className="App">
+      <h1>Калькулятор зеркал</h1>
       <Form />
       хуй
      <button onClick={onClose}>Закрыть</button>
